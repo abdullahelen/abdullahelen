@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 <div align="center" style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullahelen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahelen" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahelen&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahelen&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite">
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=abdullahelen&&show_icons=true&title_color=#263238&icon_color=bb2acf&text_color=#263238&bg_color=#CFD8DC">
